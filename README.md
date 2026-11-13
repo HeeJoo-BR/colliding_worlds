@@ -1,1 +1,3 @@
-# colliding_worlds
+# Colliding Worlds
+
+Game update repository.
